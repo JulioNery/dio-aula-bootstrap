@@ -34,6 +34,9 @@ body{
 .img-padrao {
     margin-top: 20px;
     margin-bottom: 20px;
+    object-fit: cover;
+    width: 400px;
+    height: 400px;
 }
 
 .bg-footer {
